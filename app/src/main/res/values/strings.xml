@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartClassroom</string>
+    <string name="btn_login">Sign in</string>
+</resources>
